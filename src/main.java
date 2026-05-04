@@ -1,2 +1,10 @@
-//code for project!
-// testing again because it got stuck in commit loop :(
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        Scanner input = new Scanner(System.in);
+    }
+    
+}

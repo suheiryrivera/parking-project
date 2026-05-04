@@ -7,7 +7,7 @@ public class Espacio {
 
     //Constructor 
     public Espacio(String seccion, int fila, int numero) {
-        this.secciones = seccion;
+        this.seccion = seccion;
         this.fila = fila;
         this.numero = numero;
     }
